@@ -174,6 +174,8 @@ CREATE TABLE IF NOT EXISTS sales(
 
 ## Creating Visualizations to gain insights
 
+![walmart sales visualization report](https://github.com/anurashikvk/walmart_sales_data_analysis_project/assets/134492695/746c49ab-4681-4b64-8f9e-01b92c248589)
+
 1. **Sales by Branches**: Create a bar chart or a map visualization showing the total sales for each branch, allowing you to compare the performance of different branches.
 2. **Product Line Performance**: Use a horizontal bar chart or a pie chart to display the sales performance of different product lines, helping you identify the best-selling product lines.
 3. **Sales Trend Over Time**: Build a line chart or area chart to visualize the sales trend over time, allowing you to identify any seasonal patterns or trends in sales.
